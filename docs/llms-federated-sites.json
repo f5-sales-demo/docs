@@ -144,6 +144,12 @@
     "category": "developer-tools"
   },
   {
+    "label": "xcsh Chrome Extension",
+    "url": "https://f5xc-salesdemos.github.io/xcsh-chrome-extension/llms.txt",
+    "description": "Chrome extension companion for the xcsh AI-powered F5 Distributed Cloud CLI",
+    "category": "developer-tools"
+  },
+  {
     "label": "CDN Simulator",
     "url": "https://f5xc-salesdemos.github.io/cdn-simulator/llms.txt",
     "description": "NGINX-based CDN edge node simulator for multi-vendor lab environments",
