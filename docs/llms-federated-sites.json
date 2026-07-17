@@ -115,7 +115,7 @@
   },
   {
     "label": "Terraform Provider",
-    "url": "https://f5-sales-demo.github.io/terraform-provider-f5xc/llms.txt",
+    "url": "https://f5-sales-demo.github.io/terraform-provider-xcsh/llms.txt",
     "description": "Terraform provider for F5 Distributed Cloud",
     "category": "developer-tools"
   },
@@ -139,7 +139,7 @@
   },
   {
     "label": "VS Code Extension",
-    "url": "https://f5-sales-demo.github.io/vscode-f5xc-tools/llms.txt",
+    "url": "https://f5-sales-demo.github.io/vscode-xcsh/llms.txt",
     "description": "VS Code extension for managing F5 Distributed Cloud resources",
     "category": "developer-tools"
   },
