@@ -120,6 +120,12 @@
     "category": "developer-tools"
   },
   {
+    "label": "xcsh Action",
+    "url": "https://f5-sales-demo.github.io/xcsh-action/llms.txt",
+    "description": "Deterministic F5 Distributed Cloud manifest operations for GitHub Actions",
+    "category": "developer-tools"
+  },
+  {
     "label": "Dev Container",
     "url": "https://f5-sales-demo.github.io/devcontainer/llms.txt",
     "description": "Isolated development environment with AI coding tools",
