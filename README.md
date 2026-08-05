@@ -22,7 +22,7 @@ Organization landing page for F5 Distributed Cloud documentation
 
 ## Documentation
 
-Full documentation is available at **[https://f5-sales-demo.github.io/docs/](https://f5-sales-demo.github.io/docs/)**.
+Full documentation is available at __[https://f5-sales-demo.github.io/docs/](https://f5-sales-demo.github.io/docs/)__.
 
 ## Contributing
 
