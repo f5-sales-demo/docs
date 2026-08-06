@@ -17,7 +17,7 @@
   {
     "id": "developer-tools",
     "label": "Developer Tools",
-    "description": "SDKs, providers, and agentic tooling."
+    "description": "CLIs, SDKs, providers, GitHub Actions, CI/CD automation, extensions, and agentic tooling."
   },
   {
     "id": "build-platform",
