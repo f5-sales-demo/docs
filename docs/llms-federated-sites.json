@@ -120,9 +120,9 @@
     "category": "developer-tools"
   },
   {
-    "label": "xcsh Action",
+    "label": "xcsh GitHub Action",
     "url": "https://f5-sales-demo.github.io/xcsh-action/llms.txt",
-    "description": "Deterministic F5 Distributed Cloud manifest operations for GitHub Actions",
+    "description": "GitHub Marketplace Action for deterministic F5 Distributed Cloud manifest operations",
     "category": "developer-tools"
   },
   {
