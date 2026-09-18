@@ -169,7 +169,7 @@
   },
   {
     "label": "Multi-Cloud Networking",
-    "url": "https://f5-sales-demo.github.io/mcn/llms.txt",
+    "url": "https://f5-sales-demo.github.io/multi-cloud-networking/llms.txt",
     "description": "Customer Edge lifecycle, Layer 3/7 transit, BGP failover, SiteCLI diagnostics, and service mesh",
     "category": "product-features"
   },
