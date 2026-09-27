@@ -6,6 +6,12 @@
     "category": "portal"
   },
   {
+    "label": "F5 Docs Corpus",
+    "url": "https://f5-sales-demo.github.io/html-to-markdown/llms.txt",
+    "description": "Verified snapshots of public F5 product documentation with progressive machine-readable discovery",
+    "category": "portal"
+  },
+  {
     "label": "Governance and Control",
     "url": "https://f5-sales-demo.github.io/docs-control/llms.txt",
     "description": "Central repository for CI workflows, automated governance rules, runner ops, and managed file distribution",
