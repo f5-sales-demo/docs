@@ -18,7 +18,7 @@ concurrency:
 
 jobs:
   docs:
-    uses: f5-sales-demo/docs-control/.github/workflows/github-pages-deploy.yml@b68cf1496e1a695751efee5114ddfe24f7cd9e35
+    uses: f5-sales-demo/docs-control/.github/workflows/github-pages-deploy.yml@ef85630aee69f170da1b20f3ded4c759e88860b2
     with:
       socketless_runner_label: docs-socketless
       container_build_runner_label: docs-container-build
