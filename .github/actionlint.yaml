@@ -20,7 +20,6 @@ self-hosted-runner:
     - demo-resources
     - devcontainer
     - dns
-    - docs
     - docs-builder
     - docs-container-build
     - docs-control
