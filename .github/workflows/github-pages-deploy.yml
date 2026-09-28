@@ -23,6 +23,7 @@ jobs:
       socketless_runner_label: docs-socketless
       container_build_runner_label: docs-container-build
       content-ref: ${{ github.sha }}
+      docs-base: /
     permissions:
       contents: read # read documentation sources
       packages: read # pull the fleet documentation builder image
