@@ -24,7 +24,7 @@ jobs:
       container_build_runner_label: docs-container-build
       content-ref: ${{ github.sha }}
       docs-base: /
-      builder-image: ghcr.io/f5-sales-demo/docs-builder@sha256:5d0f2f62712b7dbbfaeb323ab433196d7b340577b7ddf2b3c6f95fdc7edcfc85
+      builder-image: ghcr.io/f5-sales-demo/docs-builder@sha256:5d80b122e57d93bc48679ec0ebc41f21e9dbcc6db02f46d1872f2b7f4a0e8d8c
     permissions:
       contents: read # read documentation sources
       packages: read # pull the fleet documentation builder image
